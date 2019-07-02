@@ -2,11 +2,13 @@
 Link para suporte para o projeto Sabiah
 
 Contact Us
+
 If you have any questions about this application, please contact us:
 By email: mjjfilho@gmail.com
 
 Contato
-se você tiver qualquer dúvida about this application, por favor contate-me
+
+Se você tiver qualquer dúvida about this application, por favor contate-me
 Pelo e-mail: mjjfilho@gmail.com
 
 
